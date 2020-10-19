@@ -11,13 +11,13 @@ namespace CA201019
         static void Main()
         {
             var nev = "Juhász Zoltán";
-            //F401(nev);
-            //F402(nev);
-            //F403(nev);
-            //F404(Beker());
-            //F405(Beker());
-            //F406(Beker());
-            //F407(Beker());
+            F401(nev);
+            F402(nev);
+            F403(nev);
+            F404(Beker());
+            F405(Beker());
+            F406(Beker());
+            F407(Beker());
             Console.ReadKey();
         }
 
